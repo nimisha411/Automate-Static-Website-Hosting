@@ -42,9 +42,6 @@ S3-Static-Website-Automation/
     
     ├── static-hosting.png
     
-    ├── website-output.png
-    
-    └── terminal-output.png
 
 ---
 
